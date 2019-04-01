@@ -44,5 +44,7 @@ So I've got my work cut out for me!
 - [ ] Remove slurs >_>
 - [ ] Lemmatise words to keep only singular forms.
 - [ ] Word frequency analysis i.e. keep frequently-used nouns only
+   - The raw data contains only unique entries, but lemmatisation is likely to produce duplicates.
+   - I could also use the Oxford Dictionaries API to get information about word use (if its usage is archaic or contemporary, for example).
 - [ ] Manual vetting of the final noun list
 - [ ] Merge with Great Noun List
