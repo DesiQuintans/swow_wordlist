@@ -17,10 +17,10 @@
 
 I was given a license waiver to harvest nouns from the SWOW dataset and add them to my public domain list of frequently-used 
 common nouns (<http://www.desiquintans.com/nounlist>). Thanks, Simon! If you want access to the data under their existing 
-license (CC-BY-NC-ND), you can download it from their website at <https://smallworldofwords.org/en/project/research>.
+license (CC-BY-NC-ND), go to <https://smallworldofwords.org/en/project/research>.
 
 Simon was kind enough to pull all user responses that were given by at least 2 people, and send them to me as a plain-text 
-list. It's a 57,000 line dataset that looks something like this:
+list. I won't redistribute the raw data, but it's a 57,000 line dataset that looks something like this:
 
 ```
 godson
@@ -37,12 +37,12 @@ So I've got my work cut out for me!
 
 ## Things to do
 
-[ ] Remove stop words
-[ ] Remove/separate phrases
-[ ] Tag words with parts-of-speech tags
-[ ] Remove proper nouns, acronyms, adverbs, adjectives, stop words, etc. Anything that isn't a common noun.
-[ ] Remove slurs >_>
-[ ] Lemmatise words to keep only singular forms.
-[ ] Word frequency analysis i.e. keep frequently-used nouns only
-[ ] Manual vetting of the final noun list
-[ ] Merge with Great Noun List
+- [ ] Remove stop words
+- [ ] Remove/separate phrases
+- [ ] Tag words with parts-of-speech tags
+- [ ] Remove proper nouns, acronyms, adverbs, adjectives, stop words, etc. Anything that isn't a common noun.
+- [ ] Remove slurs >_>
+- [ ] Lemmatise words to keep only singular forms.
+- [ ] Word frequency analysis i.e. keep frequently-used nouns only
+- [ ] Manual vetting of the final noun list
+- [ ] Merge with Great Noun List
